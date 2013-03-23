@@ -1,6 +1,10 @@
 <html>
 <head>    
 <style>
+h3
+{
+text-shadow: 2px 2px 6px #aaaaaa;
+}
    div  
    {  
    border:2px solid #a1a1a1;  
