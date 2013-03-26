@@ -3,6 +3,7 @@
   <title>Test PHP info function</title>
 </head>
 <body>
+<!-- This is not working for some reason  -->
 <?php
 if (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE) {
 ?>
