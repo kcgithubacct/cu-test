@@ -32,15 +32,12 @@ Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
         var latSpan = northEast.lat() - southWest.lat();
         
         console.log("bounds = %s", bounds);
-        
-        for (var i = 0; i < 10; i++) {
-          var latLng = new google.maps.LatLng(southWest.lat() + latSpan * Math.random(),
-                                              southWest.lng() + lngSpan * Math.random());
-          var marker = new google.maps.Marker({
+  
+        var latLng = new google.maps.LatLng(13.699899,100.603234);
+        var marker = new google.maps.Marker({
             position: latLng,
             map: map
           });
-        }
       }
       
 
