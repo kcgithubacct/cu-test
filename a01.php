@@ -1,10 +1,10 @@
 <html>
 <head>    
 <style>
-body {
+body,p {
   color: rgb(26, 84, 136);
   display: inline;
-  font-family: arial, helvetica, clean, sans-serif;
+  font-family: arial, helvetica, verdana, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-variant: normal;
@@ -44,7 +44,7 @@ text-shadow: 2px 2px 6px #aaaaaa;
 </head>
 <body>
 <h3>This page is create using text editor on github site  name is kcgithubacct</h3>
-<p>It works! You have to go to your github account under master dir. add new or edit web page , Once you commit then you can view your new page right away at  cu-test.azurewebsites.net/a01.html  This is this page and just example</p>
+<p>It works! set lot of CSS style too. You have to go to your github account under master dir. add new or edit web page , Once you commit then you can view your new page right away at  cu-test.azurewebsites.net/a01.html  This is this page and just example</p>
 
 <?php
 echo ("Hello World! This one is an echo by php");
