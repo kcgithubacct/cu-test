@@ -5,11 +5,14 @@ body {
   color: rgb(26, 84, 136);
   display: inline;
   font-family: arial, helvetica, clean, sans-serif;
+  font-size: 16px;
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
   height: auto;
   line-height: 16px;
+  margin-left: 8px;
+  margin-right: 8px;
   text-align: left;
   text-decoration: none;
 }
