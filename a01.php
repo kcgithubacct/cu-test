@@ -1,6 +1,18 @@
 <html>
 <head>    
 <style>
+body {
+  color: rgb(26, 84, 136);
+  display: inline;
+  font-family: arial, helvetica, clean, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: auto;
+  line-height: 16px;
+  text-align: left;
+  text-decoration: none;
+}
 h3
 {
 text-shadow: 2px 2px 6px #aaaaaa;
