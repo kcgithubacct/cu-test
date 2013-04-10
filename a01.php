@@ -44,6 +44,7 @@ text-shadow: 2px 2px 6px #aaaaaa;
 </head>
 <body>
 <h3>This page is create using text editor on github site  name is kcgithubacct</h3>
+<h3>H3 style read: text-shadow: 2px 2px 6px #aaaaaa</h3>
 <p>It works! set lot of CSS style too. You have to go to your github account under master dir. add new or edit web page , Once you commit then you can view your new page right away at  cu-test.azurewebsites.net/a01.html  This is this page and just example</p>
 
 <?php
