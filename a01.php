@@ -52,6 +52,6 @@ echo ("Hello World! This one is an echo by php");
 
 <p>I will add some formatting now</p>
 <div>Hello. This is a DIV element.</div>
-<div id="div2">Hello. This is a DIV element.</div>
+<div id="div2">Hello. This is a tilt DIV ID div2 element.</div>
 </body>
 </html>
