@@ -1,3 +1,4 @@
+
 <html>
 <head>    
 <style>
@@ -49,21 +50,23 @@ text-shadow: 2px 2px 6px #aaaaaa;
 
 <?php
 echo ("Hello World!");
-echo ("\nThis one is an echo by php\n");
+$br = "<br\>"
+
+echo ("\nThis one is an echo by php (as u can see \\n does not work\n");
 
 echo "This spans
 multiple lines. The newlines will be
 output as well";
 
-echo "This spans\nmultiple lines. The newlines will be\noutput as well.";
+echo "This spans$br multiple lines. The newlines will be$br output as well.";
 
-echo "Escaping characters is done \"Like this\".";
+echo "Escaping characters is done \"Like this\".$br ";
 
 // You can use variables inside of an echo statement
 $foo = "foobar";
 $bar = "barbaz";
 
-echo "foo is $foo"; // foo is foobar
+echo "foo is $foo $br "; // foo is foobar
 
 ?>
 
