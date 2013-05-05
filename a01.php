@@ -45,10 +45,26 @@ text-shadow: 2px 2px 6px #aaaaaa;
 <body>
 <h3>This page is create using text editor on github site  name is kcgithubacct</h3>
 <h3>H3 style read: text-shadow: 2px 2px 6px #aaaaaa</h3>
-<p>It works! set lot of CSS style too. You have to go to your github account under master dir. add new or edit web page , Once you commit then you can view your new page right away at  cu-test.azurewebsites.net/a01.html  This is this page and just example</p>
+<p>It works! set lot of CSS style too. You have to go to your github account under master dir. add new or edit web page , Once you commit then you can view your new page right away at  cu-test.azurewebsites.net/a01.php  This is this page and just example</p>
 
 <?php
-echo ("Hello World! This one is an echo by php");
+echo ("Hello World!");
+echo ("\nThis one is an echo by php\n");
+
+echo "This spans
+multiple lines. The newlines will be
+output as well";
+
+echo "This spans\nmultiple lines. The newlines will be\noutput as well.";
+
+echo "Escaping characters is done \"Like this\".";
+
+// You can use variables inside of an echo statement
+$foo = "foobar";
+$bar = "barbaz";
+
+echo "foo is $foo"; // foo is foobar
+
 ?>
 
 <p>I will add some formatting now</p>
