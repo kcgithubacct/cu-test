@@ -1,4 +1,3 @@
-
 <html>
 <head>    
 <style>
@@ -50,7 +49,7 @@ text-shadow: 2px 2px 6px #aaaaaa;
 
 <?php
 echo ("Hello World!");
-$br = "<br\>"
+$br = "<br>"
 
 echo ("\nThis one is an echo by php (as u can see \\n does not work\n");
 
