@@ -16,6 +16,12 @@ body,p {
   text-align: left;
   text-decoration: none;
 }
+h1
+{
+  font-family: arial, helvetica, verdana;
+  font-size: 32px;
+  font-weight: lighter;
+}
 h3
 {
 text-shadow: 2px 2px 6px #aaaaaa;
@@ -70,6 +76,7 @@ echo "foo is $foo $br "; // foo is foobar
 ?>
 
 <p>I will add some formatting now</p>
+<h1>This is H1 32px, lighter weight</h1>
 <div>Hello. This is a DIV element.</div>
 <div id="div2">Hello. This is a tilt DIV ID div2 element.</div>
 </body>
