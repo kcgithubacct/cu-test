@@ -25,6 +25,12 @@ div {background-color:#c0d0de;}
 div.spread {letter-spacing:4px;}
 
 h1 {
-      font-weight:lighter;
-	color:#00ff00;}
+color: #2778ec;
+font-family: "Segoe UI", "verdana";
+font-size: 38pt;
+font-weight: 300;
+margin-bottom: 20px;
+vertical-align: bottom;
+position: relative;
+}
 h2 {color:rgb(255,120,240);}
