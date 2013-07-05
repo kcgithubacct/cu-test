@@ -24,5 +24,7 @@ body {
 div {background-color:#c0d0de;}
 div.spread {letter-spacing:4px;}
 
-h1 {color:#00ff00;}
+h1 {
+      font-weight:lighter;
+	color:#00ff00;}
 h2 {color:rgb(255,120,240);}
