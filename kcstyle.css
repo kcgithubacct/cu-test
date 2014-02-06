@@ -22,7 +22,7 @@ body {
 	background-color:#b0c4de;
 }
 div {background-color:#c0d0de;}
-div.spread {letter-spacing:4px;}
+div.spread {letter-spacing:4px; color:black;}
 
 h1 {
 color: #2778ec;
