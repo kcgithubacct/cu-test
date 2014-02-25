@@ -1,3 +1,11 @@
+body {
+	font-size: 14px;
+	font-size: 1rem;
+	font-family: Helvetica, Arial, sans-serif;
+	text-rendering: optimizeLegibility;
+	color: #444;	
+	background-color:#b0c4de;
+}
 hr {color:sienna;}
 p {
   text-indent:50px;
@@ -16,10 +24,6 @@ h3
 color:red;
 text-align:left;
 font-size:8pt;
-}
-body {
-	color:#00ff00;
-	background-color:#b0c4de;
 }
 div {background-color:#c0d0de;}
 div.spread {letter-spacing:4px; color:black;}
